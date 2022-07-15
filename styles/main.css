@@ -1,0 +1,7 @@
+@import "./utils/normalize.css";
+@import "./blocks/header.css";
+@import "./blocks/menu.css";
+@import "./blocks/slider.css";
+@import "./blocks/new.css";
+@import "./blocks/categories.css";
+@import "./blocks/footer.css";
